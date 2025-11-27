@@ -30,7 +30,7 @@ page-layout: custom
 
 ## About Me
 
-I'm a PhD student at the [Danish Centre for Health Economics](https://www.sdu.dk/en/dache) at the University of Southern Denmark, where I investigate the complex relationships between population health, healthcare expenditures, and disease burden.
+I'm a PhD student at the [Danish Centre for Health Economics](https://www.sdu.dk/en/dache) at the University of Southern Denmark, where I study the complex relationships between population health, healthcare expenditures, and disease burden.
 
 My research uses large-scale health data and quantitative methods to investigate real-world health policy challenges and to understand how we can better allocate resources and improve population outcomes. Before my PhD, I spent four years at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/) as a Research Scientist, contributing to burden of disease and health spending research that informs health policy worldwide.
 
@@ -75,16 +75,17 @@ In progress, expected 2026
 *Research Scientist* 2019-2023
 
 - Clinical Informatics researcher, Global Burden of Disease
-- Integrated Medicare and Medicaid data to IHME data ecosystem
 - Disease expenditure researcher, US Counties Health Expenditure project
+- Led integration of Medicare and Medicaid claims data for IHME research
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 **Epic Systems**
 *Technical Services Engineer* 2017-2019
 
-- Built EHR reporting of value-based health plans
-- Supported healthcare data workflows
+- Supported EHR implementations of population health management programs
+- Troubleshot clinical software issues for large health systems
+
 :::
 :::
 :::

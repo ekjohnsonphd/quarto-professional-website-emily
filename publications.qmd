@@ -93,7 +93,7 @@ nocite: '@*'
 </div>
 
 <div class="stat-item">
-<span class="stat-number">—</span>
+<span class="stat-number">9</span>
 <span class="stat-label">h-index</span>
 </div>
 :::

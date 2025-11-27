@@ -1,30 +1,118 @@
 ---
 title: "Publications"
 description: "Published research and scholarly works"
+bibliography: articles.bib
+csl: apa.csl
+nocite: '@*'
 ---
 
-## Peer-Reviewed Journal Articles
+```{=html}
+<style>
+/* Publication statistics styling - compact version */
+.pub-stats {
+  margin-bottom: 2em;
+  padding-bottom: 1em;
+  border-bottom: 2px solid #e0e0e0;
+}
 
-### 2024
+.stat-grid {
+  display: flex;
+  gap: 2em;
+  flex-wrap: wrap;
+}
 
-**Your Name**, Co-Author, A., & Co-Author, B. (2024). Title of your paper. *Journal Name*, Volume(Issue), pages. DOI: [link]
+.stat-item {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.5em;
+}
 
-### 2023
+.stat-number {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #2c5282;
+}
 
-**Your Name** & Co-Author, A. (2023). Title of your paper. *Journal Name*, Volume(Issue), pages. DOI: [link]
+.stat-label {
+  font-size: 0.9em;
+  color: #666;
+}
 
-## Conference Proceedings
+/* Enhanced publication list styling */
+.references {
+  margin-left: 0;
+  padding-left: 0;
+}
 
-**Your Name** (2024). Title of conference paper. In *Proceedings of Conference Name* (pp. pages). Location: Publisher.
+.references .csl-entry {
+  margin-bottom: 1em;
+  padding-bottom: 0.75em;
+  border-bottom: 1px solid #e0e0e0;
+  line-height: 1.6;
+}
 
-## Book Chapters
+.references .csl-entry:last-child {
+  border-bottom: none;
+}
 
-**Your Name** (2023). Title of chapter. In Editor, A. & Editor, B. (Eds.), *Book Title* (pp. pages). Publisher.
+/* Make journal names stand out */
+.references .csl-entry em {
+  font-style: italic;
+  color: #2c5282;
+  font-weight: 500;
+}
 
-## Working Papers & Preprints
+/* Bold author name - will be done via JavaScript */
+.references .csl-entry strong {
+  color: #000;
+  font-weight: 700;
+}
 
-**Your Name** & Co-Author, A. (2024). Title of working paper. Working Paper Series.
+/* Year and volume styling */
+.references .csl-entry a {
+  color: #2563eb;
+  text-decoration: none;
+}
 
-## Theses
+.references .csl-entry a:hover {
+  text-decoration: underline;
+}
+</style>
+```
 
-**Your Name** (Year). *Title of Dissertation*. Doctoral dissertation, University Name.
+::: {.pub-stats}
+::: {.stat-grid}
+<div class="stat-item">
+<span class="stat-number">12</span>
+<span class="stat-label">publications</span>
+</div>
+
+<div class="stat-item">
+<span class="stat-number">3</span>
+<span class="stat-label">first author</span>
+</div>
+
+<div class="stat-item">
+<span class="stat-number">—</span>
+<span class="stat-label">h-index</span>
+</div>
+:::
+:::
+
+::: {#refs}
+:::
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Bold author name (Johnson, E. K.) in bibliography
+  const refs = document.getElementById('refs');
+  if (refs) {
+    refs.innerHTML = refs.innerHTML
+      .replace(/Johnson, E\. K\./g, '<strong>Johnson, E. K.</strong>')
+      .replace(/Johnson, Emily K\./g, '<strong>Johnson, Emily K.</strong>')
+      .replace(/Johnson, Emily(?!<)/g, '<strong>Johnson, Emily</strong>');
+  }
+});
+</script>
+```

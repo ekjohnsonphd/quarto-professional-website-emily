@@ -1,0 +1,7 @@
+---
+bibliography: conference.bib
+nocite: '@*'
+---
+
+::: {#refs}
+:::

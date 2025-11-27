@@ -1,0 +1,7 @@
+---
+bibliography: software.bib
+nocite: '@*'
+---
+
+::: {#refs}
+:::

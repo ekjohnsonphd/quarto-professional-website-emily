@@ -1,112 +1,96 @@
 ---
-title: "Emily K. Johnson"
+title: "Emily Johnson"
 description-meta: "Emily K. Johnson - Population Health Scientist"
 image: "files/images/IMG_0803.jpeg"
 page-navigation: false
 toc: false
-page-layout: full
-
-about:
-  id: hero-heading
-  template: solana
-  image-shape: round
-  image-width: 15em
-  links:
-    - icon: envelope-fill
-      text: Email
-      href: mailto:ejohnson@health.sdu.dk
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/emilykatherinejohnson/
-      target: _blank
-    - text: "{{< ai orcid >}}"
-      href: https://orcid.org/0000-0001-9213-9533
-      target: _blank
-    - text: "{{< ai google-scholar >}}"
-      href: https://scholar.google.com/citations?user=upRo6SsAAAAJ&hl=en
-      target: _blank
-    - icon: github
-      text: GitHub
-      href: https://github.com/ekjohnsonphd
-      target: _blank
+page-layout: custom
 ---
 
-:::{#hero-heading}
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3 #sidebar}
+![](files/images/IMG_0803.jpeg){.profile-img}
+
+
+::: {.social-links}
+[Email](mailto:ejohnson@health.sdu.dk)
+
+[{{< fa brands linkedin >}} LinkedIn](https://www.linkedin.com/in/emilykatherinejohnson/)
+
+[{{< ai orcid >}} ORCID](https://orcid.org/0000-0001-9213-9533)
+
+[{{< ai google-scholar >}} Scholar](https://scholar.google.com/citations?user=upRo6SsAAAAJ&hl=en)
+
+[{{< fa brands github >}} GitHub](https://github.com/ekjohnsonphd)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-9 #main-content}
 
 ## About Me
 
 I'm a PhD student at the [Danish Centre for Health Economics](https://www.sdu.dk/en/dache) at the University of Southern Denmark, where I investigate the complex relationships between population health, healthcare expenditures, and disease burden.
 
-My research bridges quantitative methods with real-world health policy challenges, leveraging large-scale health data to understand how we can better allocate resources and improve population outcomes. Before my PhD, I spent four years at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/) as a Research Scientist, contributing to global burden of disease research that informs health policy worldwide.
+My research uses large-scale health data and quantitative methods to investigate real-world health policy challenges and to understand how we can better allocate resources and improve population outcomes. Before my PhD, I spent four years at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/) as a Research Scientist, contributing to burden of disease and health spending research that informs health policy worldwide.
 
+::: {.grid .info-grid}
+
+::: {.g-col-12 .g-col-lg-6}
+### Research Interests
+
+**Health Economics** Healthcare expenditure, resource allocation, systems incentives
+**Population Health** 
+Disease burden estimation, comparative outcomes, fertility, mortality
+**Quantitative Methods** Causal inference, predictive modeling, large-scale data analysis
+**Health Policy** Evidence-based policy, health systems, health equity
 :::
 
----
+::: {.g-col-12 .g-col-lg-6}
+### Education
+
+**PhD in Health Economics**
+*University of Southern Denmark*
+In progress, expected 2026
+
+**MSc in Health Data Science**
+*London School of Economics*
+2022
+
+**PgCert in Epidemiology**
+*University of Edinburgh*
+2022
+
+**BA in Statistics**
+*Rice University*
+2017
+:::
+
+::: {.g-col-12}
+### Experience
 
 ::: {.grid}
-::: {.g-col-12 .g-col-md-4}
-## Research Interests
-
-**Health Economics**
-Healthcare expenditure, resource allocation, systems incentives
-
-**Population Health**
-Disease burden estimation, comparative outcomes, fertility, mortality
-
-**Quantitative Methods**
-Causal inference, predictive modeling, large-scale data analysis
-
-**Health Policy**
-Evidence-based policy, health systems, health equity
-:::
-
-::: {.g-col-12 .g-col-md-4}
-## Education
-
-**PhD in Health Economics** <br>
-*University of Southern Denmark* <br>
-In Progress <br>
-
-**MSc in Health Data Science** <br>
-*London School of Economics* <br>
-2022 <br>
-
-**PgCert in Epidemiology** <br>
-*University of Edinburgh* <br>
-2022 <br>
-
-**BA in Statistics** <br>
-*Rice University* <br>
-2017 <br>
-:::
-
-::: {.g-col-12 .g-col-md-4}
-## Experience
-
-**Institute for Health Metrics and Evaluation** <br>
-*Research Scientist,* 2019-2023
+::: {.g-col-12 .g-col-md-6}
+**Institute for Health Metrics and Evaluation**
+*Research Scientist* 2019-2023
 
 - Clinical Informatics researcher, Global Burden of Disease
 - Integrated Medicare and Medicaid data to IHME data ecosystem
 - Disease expenditure researcher, US Counties Health Expenditure project
+:::
 
-**Epic Systems** <br>
-*Technical Services Engineer,* 2017-2019
+::: {.g-col-12 .g-col-md-6}
+**Epic Systems**
+*Technical Services Engineer* 2017-2019
 
 - Built EHR reporting of value-based health plans
-- Supported healthcare data workflows 
+- Supported healthcare data workflows
+:::
+:::
 :::
 
-
+:::
 
 :::
 
----
-
-## Contact
-
-**Email:** [ejohnson@health.sdu.dk](mailto:ejohnson@health.sdu.dk)
-
-**Affiliation:** Danish Centre for Health Economics, University of Southern Denmark, Odense
-
-Find me on [LinkedIn](https://www.linkedin.com/in/emilykatherinejohnson/), [GitHub](https://github.com/ekjohnsonphd), [ORCID](https://orcid.org/0000-0001-9213-9533), and [Google Scholar](https://scholar.google.com/citations?user=upRo6SsAAAAJ&hl=en).
+:::

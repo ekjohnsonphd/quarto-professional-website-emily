@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "My current CV is available as a PDF:\nDownload CV (November 2025)\nLast updated: November 2025"
+  },
+  {
+    "objectID": "cv.html#download-cv",
+    "href": "cv.html#download-cv",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "My current CV is available as a PDF:\nDownload CV (November 2025)\nLast updated: November 2025"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Emily Johnson",
+    "section": "About Me",
+    "text": "About Me\nI’m a PhD student at the Danish Centre for Health Economics at the University of Southern Denmark, where I study the complex relationships between population health, healthcare expenditures, and disease burden.\nMy research uses large-scale health data and quantitative methods to investigate real-world health policy challenges and to understand how we can better allocate resources and improve population outcomes. Before my PhD, I spent four years at the Institute for Health Metrics and Evaluation (IHME) as a Research Scientist, contributing to burden of disease and health spending research that informs health policy worldwide.\n\n\nResearch Interests\nHealth Economics Healthcare expenditure, resource allocation, systems incentives Population Health Disease burden estimation, comparative outcomes, fertility, mortality Quantitative Methods Causal inference, predictive modeling, large-scale data analysis Health Policy Evidence-based policy, health systems, health equity\n\n\nEducation\nPhD in Health Economics University of Southern Denmark In progress, expected 2026\nMSc in Health Data Science London School of Economics 2022\nPgCert in Epidemiology University of Edinburgh 2022\nBA in Statistics Rice University 2017\n\n\nExperience\n\n\nInstitute for Health Metrics and Evaluation Research Scientist 2019-2023\n\nClinical Informatics researcher, Global Burden of Disease\nDisease expenditure researcher, US Counties Health Expenditure project\nLed integration of Medicare and Medicaid claims data for IHME research\n\n\n\nEpic Systems Technical Services Engineer 2017-2019\n\nSupported EHR implementations of population health management programs\nTroubleshot clinical software issues for large health systems"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "My Research",
+    "section": "",
+    "text": "My research focuses relate broadly to population health metrics and health spending and services provision. I’m interested in the distribution of health and resources across populations, and how large administrative datasets can be used for evidence-based health policy and public benefit.\nMy areas of focus include:\n\nHealth inequalities and population distributions — My research examines how health outcomes and their consequences are distributed across populations, and how disadvantages compound across domains.\nAdministrative health data — I’ve worked with administrative health data from multiple angles: supporting EHR systems, integrating massive claims datasets, and conducting registry-based research.\nHealth systems financing and provider incentives — I am interested in how payment structures shape provider behavior and care allocation, and my experience at Epic and IHME has informed my perspective."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "My Research",
+    "section": "",
+    "text": "My research focuses relate broadly to population health metrics and health spending and services provision. I’m interested in the distribution of health and resources across populations, and how large administrative datasets can be used for evidence-based health policy and public benefit.\nMy areas of focus include:\n\nHealth inequalities and population distributions — My research examines how health outcomes and their consequences are distributed across populations, and how disadvantages compound across domains.\nAdministrative health data — I’ve worked with administrative health data from multiple angles: supporting EHR systems, integrating massive claims datasets, and conducting registry-based research.\nHealth systems financing and provider incentives — I am interested in how payment structures shape provider behavior and care allocation, and my experience at Epic and IHME has informed my perspective."
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "My Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nExperienced Burden of Disease in Denmark\nThis is the focus of my PhD dissertation, which is funded by Danmarks Frie Forskningfond and Helsefonden. The project aims to measure the economic, social, and psychological consequences of disease burden in Denmark using register data. I am developing methods to attribute outcomes to disease related health shocks, and to produce metrics which are comparative across diseases and populations despite differential health risk.\n\n\nPredicting and Describing Who Dies Early\nThis project is a collaboration with researchers at Erasmus University and the Norwegian Institute of Public Health, to predict and describe who is at risk of premature mortality in 3 european countries using administrative data. We’re using machine learning methods to leverage the richness of register data, and to empirically assess the contributors to mortality inequality across the population. I contribute to model development, project management, and analysis of the Danish data.\n\n\nInternational Network on COmparative REsource use (INCORE)\nThe INCORE consortium conducts health systems utilization and expenditure research for comparative research and policy applications. The network includes researchers from Oxford University, IHME, University of Western Australia, and 18 other countries. This is early stage work, and we are starting with a focus on healthcare utilization with plans to expand to expenditure and resource allocation."
+  },
+  {
+    "objectID": "research.html#past-projects",
+    "href": "research.html#past-projects",
+    "title": "My Research",
+    "section": "Past Projects",
+    "text": "Past Projects\n\nDisease Expenditure Accounts for US Counties\nThis project used large-scale health expenditure data to estimate disease-specific health spending across US counties. The project aimed to identify disparities in health spending and inform resource allocation decisions. I contributed to data integration, modeling, and analysis. This work was part of the US Counties Health Expenditure project at IHME.\n\n\nIncidence and Prevalence from Clinical Administrative Data\nHospital admissions records are a key input to the Global Burden of Disease, but clinical encounters must be translated into incidence and prevalence for disease-specific modeling. On the Clinical Informatics team at IHME, I developed methods to estimate incidence and prevalence from hospital admissions data for the Global Burden of Disease."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "12 publications\n\n\n3 first author\n\n\n9 h-index\n\n\n\n\n\nChang, A. Y., & Johnson, E. K. (2025). Confronting the systematic invisibility of women’s health. The Lancet Obstetrics, Gynaecology, & Women’s Health, 1(2), e76–e77. https://doi.org/10.1016/j.lanogw.2025.100055\n\n\nDieleman, J. L., Beauchamp, M., Crosby, S. W., et al. (2025). Tracking US Health Care Spending by Health Condition and County. JAMA. https://doi.org/10.1001/jama.2024.26790\n\n\nJohnson, E. K., Parikh, H., Olsen, K. R., et al. (2025). Breast cancer and income loss in Denmark: Heterogeneous outcomes and longitudinal effects. Nature Communications. https://doi.org/10.1038/s41467-025-66524-y\n\n\nLescinsky, H., Sahu, M., Beauchamp, M., et al. (2025). Exploring State-Level Change in Health Care Value Over Three Decades in the United States, 1991–2020. Health Services Research, e70054. https://doi.org/10.1111/1475-6773.70054\n\n\nMokdad, A. H., Bisignano, C., Hsu, J. M., et al. (2024). The burden of diseases, injuries, and risk factors by state in the USA, 1990–2021: A systematic analysis for the Global Burden of Disease Study 2021. The Lancet, 404(10469), 2314–2340. https://doi.org/10.1016/S0140-6736(24)01446-6\n\n\nNaghavi, M., Ong, K. L., Aali, A., et al. (2024). Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: A systematic analysis for the Global Burden of Disease Study 2021. The Lancet, 403(10440), 2100–2132. https://doi.org/10.1016/S0140-6736(24)00367-2\n\n\nNorheim, O. F., Chang, A. Y., Bolongaita, S., et al. (2024). Halving premature death and improving quality of life at all ages: Cross-country analyses of past trends and future directions. The Lancet. https://doi.org/10.1016/S0140-6736(24)02417-6\n\n\nPaget, J., Staadegaard, L., Wang, X., et al. (2023). Global and national influenza-associated hospitalisation rates: Estimates for 40 countries and administrative regions. Journal of Global Health, 13, 04003. https://doi.org/10.7189/jogh.13.04003\n\n\nJohnson, E. K., Wojtesta, M. A., Crosby, S. W., et al. (2022). Varied Health Spending Growth Across US States Was Associated With Incomes, Price Levels, And Medicaid Expansion, 2000–19. Health Affairs, 41(8), 1088–1097. https://doi.org/10.1377/hlthaff.2021.01834\n\n\nRoberts, N. L. S., Johnson, E. K., Zeng, S. M., et al. (2022). Global mortality of snakebite envenoming between 1990 and 2019. Nature Communications, 13(1), 6160. https://doi.org/10.1038/s41467-022-33627-9\n\n\nJohnson, E. K., Sylte, D., Chaves, S. S., et al. (2021). Hospital utilization rates for influenza and RSV: A novel approach and critical assessment. Population Health Metrics, 19(1), 31. https://doi.org/10.1186/s12963-021-00252-5\n\n\nLi, Y., Johnson, E. K., Shi, T., et al. (2021). National burden estimates of hospitalisations for acute lower respiratory infections due to respiratory syncytial virus in young children in 2019 among 58 countries: A modelling study. The Lancet Respiratory Medicine, 9(2), 175–185. https://doi.org/10.1016/S2213-2600(20)30322-2"
+  }
+]

@@ -4,43 +4,46 @@ title: "My Research"
 
 ## Research Interests
 
-My research focuses relate broadly to population health metrics and health expenditure and services provision. I'm interested in the distribution of health and resources across populations, and how large administrative datasets can be used for evidence-based health policy and public benefit. 
+My research focuses relate broadly to **population health metrics** and **health spending and services provision**. I'm interested in the distribution of health and resources across populations, and how large administrative datasets can be used for evidence-based health policy and public benefit.
 
+My areas of focus include: 
 
-### Focus Areas
+- **Health inequalities and population distributions** — My research examines how health outcomes and their consequences are distributed across populations, and how disadvantages compound across domains.
 
-**Health systems financing and provider incentives**
+- **Administrative health data** — I've worked with administrative health data from multiple angles: supporting EHR systems, integrating massive claims datasets, and conducting registry-based research.
 
-I'm interested in how payment structures shape provider behavior and care allocation in the US healthcare system. I spent several years building risk adjustment and value-based care software at Epic, which gave me a ground-level view of how financing mechanisms actually work in practice: how they're implemented in clinical workflows and how providers respond to them. I want to understand how these reimbursement structures affect care pathways and ultimately health outcomes.
-
-**Administrative health data infrastructures**
-
-I've worked with administrative health data from multiple angles: supporting the EHR systems that generate it (Epic), integrating massive datasets for research use (Medicare and Medicaid claims at IHME), and conducting registry-based research (Danish administrative data). This gives me a practical understanding of what these data can and can't do, where quality issues come from, and how to work around the limitations.
-
-**Health inequalities and population distributions**
-
-My research examines how health outcomes and their consequences are distributed across populations, whether by sex, socioeconomic status, or other characteristics. This includes work on mental health and economic impacts, sex disparities in disease burden, and how health and economic shocks interact. I'm particularly interested in disentangling the mechanisms behind these patterns and understanding how disadvantages compound across domains.
+- **Health systems financing and provider incentives** — I am interested in how payment structures shape provider behavior and care allocation, and my experience at Epic and IHME has informed my perspective.
 
 ## Current Projects
 
-### Experienced Burden of Disease in Denmark
+::: {.project-card}
+**Experienced Burden of Disease in Denmark**
 
 This is the focus of my PhD dissertation, which is funded by Danmarks Frie Forskningfond and Helsefonden. The project aims to measure the economic, social, and psychological consequences of disease burden in Denmark using register data. I am developing methods to attribute outcomes to disease related health shocks, and to produce metrics which are comparative across diseases and populations despite differential health risk.
+:::
 
-### Predicting and Describing Who Dies Early
+::: {.project-card}
+**Predicting and Describing Who Dies Early**
 
 This project is a collaboration with researchers at Erasmus University and the Norwegian Institute of Public Health, to predict and describe who is at risk of premature mortality in 3 european countries using administrative data. We're using machine learning methods to leverage the richness of register data, and to empirically assess the contributors to mortality inequality across the population. I contribute to model development, project management, and analysis of the Danish data.
+:::
 
-### International Network on COmparative REsource use (INCORE)
+::: {.project-card}
+**International Network on COmparative REsource use (INCORE)**
 
 The INCORE consortium conducts health systems utilization and expenditure research for comparative research and policy applications. The network includes researchers from Oxford University, IHME, University of Western Australia, and 18 other countries. This is early stage work, and we are starting with a focus on healthcare utilization with plans to expand to expenditure and resource allocation.
+:::
 
 ## Past Projects
 
-### Disease Expenditure Accounts for US Counties
+::: {.project-card}
+**Disease Expenditure Accounts for US Counties**
 
 This project used large-scale health expenditure data to estimate disease-specific health spending across US counties. The project aimed to identify disparities in health spending and inform resource allocation decisions. I contributed to data integration, modeling, and analysis. This work was part of the US Counties Health Expenditure project at IHME.
+:::
 
-### Incidence and Prevalence from Clinical Administrative Data
+::: {.project-card}
+**Incidence and Prevalence from Clinical Administrative Data**
 
 Hospital admissions records are a key input to the Global Burden of Disease, but clinical encounters must be translated into incidence and prevalence for disease-specific modeling. On the Clinical Informatics team at IHME, I developed methods to estimate incidence and prevalence from hospital admissions data for the Global Burden of Disease.
+:::

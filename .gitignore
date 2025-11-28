@@ -1,8 +1,14 @@
 /.quarto/
-**/*.html
+
+# Allow docs folder for GitHub Pages, but ignore specific generated files
+!docs/
+!docs/**/*.html
+
+# Ignore images and PDFs except in files/ directory
 **/*.jpg
+!files/**/*.jpg
 **/*.pdf
-docs/*
+!files/**/*.pdf
 
 # System files
 **/.DS_Store
@@ -46,10 +52,6 @@ _site/
 .quarto/
 *_cache/
 *_files/
-docs/site_libs/
-docs/**/*.html
-docs/**/*.xml
-docs/**/*.json
 
 # Temporary files
 *.log

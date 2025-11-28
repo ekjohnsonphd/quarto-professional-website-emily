@@ -23,7 +23,7 @@ website:
 
     right:
       - text: CV
-        href: files/cv.pdf
+        href: cv.qmd
       - icon: github
         href: https://github.com/
         target: _blank
